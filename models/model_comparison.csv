@@ -1,0 +1,9 @@
+Model,Train Acc,Test Acc,CV-5 Acc,Overfit
+HistGradientBoosting ★,0.9683,0.9251,-,No
+Gradient Boosting,0.963,0.9225,0.9261,No
+Random Forest,1.0,0.9207,0.924,Yes
+Logistic Regression,0.9222,0.917,0.9203,No
+KNN,0.9383,0.917,0.9226,No
+Extra Trees,1.0,0.9148,0.9198,Yes
+Naive Bayes,0.8962,0.8972,0.8961,No
+Decision Tree,1.0,0.8924,0.897,Yes
